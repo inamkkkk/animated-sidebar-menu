@@ -1,0 +1,45 @@
+# Flutter generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugin-dependencies
+.packages
+
+# Android generated files
+android/build/
+android/.gradle/
+android/app/build/
+
+# iOS generated files
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+ios/build/
+
+# Gradle files
+*.gradle
+*.keystore
+
+# Intellij related
+*.iml
+.idea/
+
+# VSCode related
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Crash reports
+crashlytics/
+
+# Temp files
+tmp*
+
+# Packages
+packages/
+
+# Environment
+.env
